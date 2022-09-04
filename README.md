@@ -4,15 +4,16 @@ Gerador de números aleatórios para jogar a loteria. Criado com o objetivo de a
 
 
 
-#### Começando
+### Começando
 
 Para executar o projeto, será necessário instalar os seguintes programas:
 
 - [JDK 11](https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html): Necessário para executar o projeto
 - [Maven 3.8.6](https://maven.apache.org/download.cgi): Necessário para realizar o build do projeto
 - [IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea/download/#section=windows): Para desenvolvimento e execução do projeto
+- [Git](https://git-scm.com/downloads): Para clonar o repositório na sua máquina
 
-Para testes, siga os seguintes passos:
+### Para testes
 
 1. Clone o repositório: 
 ```shell
@@ -20,10 +21,10 @@ cd "diretorio de sua preferencia"
 git clone https://github.com/viit0r/gerador-numeros-loteria.git
 ```
 2. Abra a pasta na IDE
-3. Execute o projeto (Atalho Shift+10)
+3. Execute o projeto (Atalho Shift + F10)
 4. Pronto 😉
 
-Recursos utilizados: 
+### Recursos utilizados 
 
 - Orientação a objeto
 - Recursividade
